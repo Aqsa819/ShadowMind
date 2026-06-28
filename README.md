@@ -6,6 +6,11 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A real-time prompt injection detection system that classifies malicious LLM inputs before they reach the model — using a fine-tuned DistilBERT classifier served via FastAPI.
+[![Demo](https://img.shields.io/badge/🤗_Demo-Live-blue)](https://huggingface.co/spaces/Aqsa112/ShadowMind)
+
+## 🌐 Live Demo
+
+Try it here: **[https://huggingface.co/spaces/Aqsa112/ShadowMind](https://huggingface.co/spaces/Aqsa112/ShadowMind)**
 
 ---
 
@@ -53,7 +58,11 @@ ShadowMind acts as a **security middleware layer** that intercepts and analyzes 
 ---
 
 ## 🏗️ Architecture
+
 ---
+## 🌐 Live Demo
+
+Try it here: **[https://huggingface.co/spaces/Aqsa112/ShadowMind](https://huggingface.co/spaces/Aqsa112/ShadowMind)**
 
 ## 🚀 Quick Start
 
