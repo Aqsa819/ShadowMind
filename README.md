@@ -1,3 +1,4 @@
+
 # 🛡️ ShadowMind — LLM Prompt Injection Detector
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -57,9 +58,18 @@ ShadowMind acts as a **security middleware layer** that intercepts and analyzes 
 
 ---
 
-## 🏗️ Architecture
 
----
+<img width="1718" height="733" alt="Screenshot 2026-06-28 170054" src="https://github.com/user-attachments/assets/4acce9fb-f18d-4936-8811-75e6d468265b" />
+
+
+
+
+
+<img width="1895" height="695" alt="Screenshot 2026-06-28 170453" src="https://github.com/user-attachments/assets/67c4d819-4aa5-41c5-876c-d499b2fe52f7" />
+
+
+
+
 ## 🌐 Live Demo
 
 Try it here: **[https://huggingface.co/spaces/Aqsa112/ShadowMind](https://huggingface.co/spaces/Aqsa112/ShadowMind)**
@@ -121,8 +131,7 @@ curl -X POST http://localhost:8000/analyze \
 
 ---
 
-## 📁 Project Structure
----
+
 
 ## 👩‍💻 Author
 
